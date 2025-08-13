@@ -77,4 +77,46 @@ Course description in Latvian: [Datu analīze un vizualizācija, izmantojot prog
 **🔄 Reflection (1h)**  
 - 👥 Peer review of visual summaries  
 - 📝 Short quiz on choosing EDA methods  
-- 💬 Discussion: how
+- 💬 Discussion: how EDA shapes further analysis  
+
+---
+
+### **📅 Day 4 — Data Visualization in Python**
+**📚 Instruction (3h)**  
+- 🖌 matplotlib basics  
+- 🎨 seaborn for statistical plots  
+- 📊 Choosing the right chart type  
+- ✏️ Plot customization (titles, labels, color themes)  
+- 🖼 Multi-panel plots  
+- 🌐 Intro to plotly for interactivity  
+
+**🛠 Practical (1h)**  
+- 📊 Create bar chart, time series, scatter plot, and an interactive chart  
+
+**🔄 Reflection (1h)**  
+- 🧐 Compare different visualization styles for same data  
+- 👥 Group critique: clarity, aesthetics, accuracy  
+- 💬 Discuss when interactivity is worth the extra complexity  
+
+---
+
+### **📅 Day 5 — Storytelling, Dashboards & AI in Data Analysis**
+**📚 Instruction (3h)**  
+- 📖 Turning analysis into a narrative  
+- 🎯 Visual communication best practices  
+- 🖥 Streamlit dashboards  
+- 📤 Exporting results (PDF, HTML)  
+- 🔁 Automation of repetitive analysis  
+- 🤖 **AI & ML in Data Analysis**
+  - 📌 Clustering, classification, regression (intro)  
+  - 💡 LLM-assisted coding, EDA, visualization (ChatGPT, Copilot, MCP, agents)  
+  - ⚠️ Benefits & limitations  
+
+**🛠 Practical (1h)**  
+- 🖥 Build a mini dashboard  
+- 🤝 Create a Jupyter Notebook report with AI-assisted code suggestions  
+
+**🔄 Reflection (1h)**  
+- 💬 Discussion: how AI changes the analysis workflow  
+- 👥 Peer feedback on dashboard clarity & storytelling  
+- 📝 Short quiz: matching problem types to ML models  
