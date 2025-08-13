@@ -119,4 +119,20 @@ Course description in Latvian: [Datu analīze un vizualizācija, izmantojot prog
 **🔄 Reflection (1h)**  
 - 💬 Discussion: how AI changes the analysis workflow  
 - 👥 Peer feedback on dashboard clarity & storytelling  
-- 📝 Short quiz: matching problem types to ML models  
+- 📝 Short quiz: matching problem types to ML models
+
+## Additional Reading & References
+
+| Title | Focus & Highlights | URL |
+|-------|--------------------|-----|
+| **Python for Data Analysis** – Wes McKinney | Comprehensive guide to pandas, NumPy, Jupyter; latest updates included. | [Amazon](https://www.amazon.com/dp/109810403X) |
+| **Python Data Science Handbook** – Jake VanderPlas | Toolkit reference for pandas, NumPy, matplotlib, scikit-learn. | [Amazon](https://www.amazon.com/dp/1491912057) |
+| **Hands-On ML with Scikit-Learn, Keras & TensorFlow** – Aurélien Géron | Practical deep learning and ML workflows. | [Amazon](https://www.amazon.com/dp/1098125975) |
+| **Introduction to ML with Python** – Andreas Müller & Sarah Guido | Beginner focused with scikit-learn. | [Amazon](https://www.amazon.com/dp/1449369413) |
+| **The Hundred-Page ML Book** – Andriy Burkov | Quick, conceptual overview of ML. | [Author’s Site](http://themlbook.com/) |
+| **Practical Statistics for Data Scientists** – Bruce, Bruce & Gedeck | Core statistical concepts explained with R and Python. | [Amazon](https://www.amazon.com/dp/149207294X) |
+| **Dive into Deep Learning** – Zhang, Lipton, Li & Smola | Open-source deep learning textbook with runnable notebooks. | [Book Site](https://d2l.ai/) |
+| **Minimalist Data Wrangling with Python** – Marek Gagolewski | Free intro to cleaning, EDA, and basic modeling. | [Book Site](https://datawranglingpy.gagolewski.com/) |
+| **The Functional Art** – Alberto Cairo | Theory and practice of clear visual storytelling. | [Amazon](https://www.amazon.com/dp/0321834739) |
+| **Information Dashboard Design** – Stephen Few | Best practices for effective dashboard design. | [Amazon](https://www.amazon.com/dp/1938377001) |
+
