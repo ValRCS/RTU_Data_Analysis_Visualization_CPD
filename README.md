@@ -4,6 +4,10 @@ Data Analysis and Visualization continued professional development course at Rig
 
 * This Github Repository: https://github.com/ValRCS/RTU_Data_Analysis_Visualization_CPD
 
+## Daily Course Links
+
+Day 1 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day1_big_picture_intro.ipynb)
+
 ## Course description
 
 * This repository covers the Python specific part of the course. 
