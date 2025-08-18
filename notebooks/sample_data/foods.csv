@@ -1,0 +1,33 @@
+food,category,description,price_eur,weight_kg,height_cm,width_cm,length_cm,expiration_date,country_of_origin,brand,calories
+Rupjmaize,Bread,Traditional Latvian rye bread,14.87,1.37,21.5,13.2,27.1,2026-08-04,Latvia,Hanzas Maiznīca,3425
+Kefīrs,Dairy,Fermented milk drink,12.63,1.63,,,,2025-09-08,Poland,Valmiera,1467
+Siers,Dairy,Semi-hard cheese,0.94,1.76,20.4,18.2,15.8,2026-04-17,Spain,Talsu,1584
+Biezpiens,Dairy,Fresh curd cheese,9.86,0.84,6.5,11.5,21.4,2026-06-19,Poland,Baltais,756
+Skābais krējums,Dairy,Sour cream,5.16,1.92,17.6,9.0,9.9,2026-02-22,Poland,Rīgas Piensaimnieks,1728
+Pelmeņi,Frozen,Frozen dumplings with pork,1.3,1.28,18.3,16.6,12.9,2026-05-21,Estonia,Fazer,2560
+Saldējums,Frozen,Vanilla ice cream,9.47,1.15,21.5,11.5,11.4,2026-05-30,Netherlands,Pols,2415
+Kartupeļi,Vegetable,Local potatoes,12.51,1.65,18.8,13.0,9.2,2025-12-11,Poland,,495
+Burkāni,Vegetable,Fresh carrots,9.52,1.29,,,,2025-09-30,Lithuania,,387
+Āboli,Fruit,Seasonal apples,7.24,0.24,9.1,17.0,14.2,2026-08-07,Poland,,124
+Banāni,Fruit,Imported bananas,11.22,1.88,7.7,6.9,27.9,2025-12-31,Netherlands,,1673
+Apelsīni,Fruit,Juicy oranges,6.19,1.1,20.5,15.1,18.9,2025-08-29,Spain,,517
+Zemenes,Fruit,Fresh strawberries,9.71,0.59,,,,2025-10-26,Latvia,,188
+Tomāti,Vegetable,Red tomatoes,2.22,1.06,17.5,19.0,24.4,2025-11-30,Germany,,318
+Gurķi,Vegetable,Fresh cucumbers,10.59,1.53,22.8,9.2,27.1,2026-07-21,Poland,,459
+Lasīt fileja,Fish,Salmon fillet,11.14,1.86,7.0,17.0,18.0,2026-02-16,Estonia,Norwegian Salmon,3720
+Siļķe,Fish,Pickled herring,4.79,1.73,21.1,7.4,14.3,2025-09-06,Latvia,Brīvais Vilnis,3460
+Cūkgaļas karbonāde,Meat,Pork chop,9.72,1.77,13.6,12.3,17.0,2025-12-12,Lithuania,,4425
+Vistas fileja,Meat,Chicken breast fillet,11.03,1.11,10.1,18.5,20.2,2026-02-18,Estonia,Putnu Fabrika Ķekava,2775
+Liellopa steiks,Meat,Beef steak,12.19,1.59,17.4,9.9,29.2,2026-08-17,Latvia,,3975
+Olas,Dairy,Chicken eggs 10 pcs,10.92,0.52,,,,2026-08-14,Spain,Balticovo,468
+Piens,Dairy,Fresh cow milk,7.09,0.6,18.2,6.7,10.4,2025-09-15,Poland,Valmiera,540
+Sviests,Dairy,Butter 82%,9.73,1.59,9.1,11.9,10.2,2026-02-02,Italy,Valmiera,1431
+Kūka,Bakery,Layered honey cake,9.72,1.32,22.8,8.6,21.7,2025-11-28,Italy,Lāči,4620
+Saldumi,Confectionery,Assorted chocolates,5.7,0.65,10.5,17.9,6.0,2026-06-15,Poland,Laima,3250
+Sālījums,Canned,Pickled cucumbers,13.51,0.86,,,,2025-12-29,Poland,Spilva,860
+Zupa konservēta,Canned,Canned pea soup,2.65,0.94,,,,2026-04-01,Germany,Spilva,940
+Alus,Beverage,Local lager beer,6.16,0.19,,,,2026-07-16,Lithuania,Aldaris,81
+Sula,Beverage,Apple juice,12.69,1.79,19.1,15.6,17.6,2026-03-30,Italy,Cido,823
+Minerālūdens,Beverage,Carbonated mineral water,13.08,0.3,22.5,13.3,8.0,2026-04-17,Poland,Vichy,0
+Kafija,Beverage,Ground coffee,11.88,0.5,10.2,15.4,8.9,2026-05-25,Brazil,,0
+Tēja,Beverage,Black tea bags,8.45,0.2,6.5,10.0,12.0,2026-06-30,India,,0
