@@ -1,0 +1,42 @@
+# station_name=Alūksne
+# period=(Oct–Dec)
+# separator_hint=|
+# columns_in_this_file= notes | present_weather_code | t_max_c | precip_24h_mm | date | precip_type | t_min_c
+# note: some values intentionally messy (units, words, missing, time in date)
+# fields=notes|present_weather_code|t_max_c|precip_24h_mm|date|precip_type|t_min_c
+—|53|5.9|3.0 mm|10-19-1925|R|5.5
+Rīts auksts|-999|9.1|2.3 mm|18.10.1925|mixed|4.2
+Daļēji mākoņains|65|5.4|0.0|11-10-1925||-0.5
+Daļēji mākoņains|50|15.6|0.5|10-07-1925 14:00|S|10.4
+Neliels vējš|63|-1.1|0.0|12-28-1925|—|—
+Vēlāk sāka līt|-999|5.3||12-07-1925 19:00|none|
+Pūtis brāzmas|82|4.2|0.6 mm|11-07-1925|S|0.1
+—|61|-7.2|1.4|12-03-1925|mixed|-6.5
+Laikam migla|51|3.3|1.0 mm|11-27-1925|mixed|-1.3
+Mērīšanas kļūda?|70|-3.5999999999999996|2.1|12-06-1925|M|-2.9
+Skursteņi kūp|71|6.2|0.0|10-21-1925||6.9
+NA|61|1.3|2.1|28.11.1925|NA|2.0
+Ap pusdienlaiku saule|80|8.4|1.9 mm|02-11-1925|snow|-1.5
+|53|8.4||10-01-1925 07:00||3.3
+Mērījums apstiprināts|53|10.8|0.7 mm|10-08-1925|S|5.3
+Rīts auksts|45|8.1|0.1|1925-11-25|NA|-999
+Laikam migla|53|8.9|2.5|10-17-1925 07:00|R|7.1
+NA||5.4|0.8|11-22-1925 19:00|snow|2.7
+|82|1.1|0.9|12-25-1925 08:00|S|-4.5
+—|65||0.0 mm|10-23-1925|none|-0.4
+Daļēji mākoņains|60|9.1|1.7|10-02-1925|S|1.6
+Pūtis brāzmas|80|10.3|nulle|10-16-1925 14:00|—|7.9
+Pūtis brāzmas|61|6.0|0.2 mm|11-24-1925 14:00|snow|-1.9
+Mērījums apstiprināts|45|2.9|1.1 mm|12-14-1925 19:00||-6.6
+Laikam migla|82|9.0|0.0|10-10-1925||3.9
+|63|3.9|1.7 mm|12-02-1925|S|-2.3
+Ap pusdienlaiku saule|81|2.3|0.0 mm|11-03-1925 20:00|NA|1.4
+—|53|-3.0|0.6|12-13-1925|mixed|-4.0
+Rīts auksts|73|12.3|1.9|10-20-1925|mixed|-999
+Daļēji mākoņains|51||3.5 mm|11-06-1925 08:00|M|-4.6
+Vēlāk sāka līt|60|NA|1.1 mm|11-20-1925|M|1.8
+Mērījums apstiprināts|51|-2.2|0.2 mm|12-18-1925|snow|-7.6
+Pūtis brāzmas|82|5.3||11-18-1925||-0.4
+NA|63|3.4||12-19-1925|M|-6.0
+Novērojums vēlāk|90|-0.2|2.3|12-22-1925|mixed|-8.2
+Daļēji mākoņains|90|-3.5|0.2 mm|12-16-1925|rain|-4.0

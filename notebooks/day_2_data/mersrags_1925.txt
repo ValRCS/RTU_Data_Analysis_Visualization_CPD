@@ -1,0 +1,54 @@
+# station_name=Mērsrags
+# period=(Feb–May)
+# separator_hint=TAB
+# columns_in_this_file= date | precip_24h_mm | precip_type | notes | t_min_c | present_weather_code | t_max_c
+# note: some values intentionally messy (units, words, missing, time in date)
+# fields=date	precip_24h_mm	precip_type	notes	t_min_c	present_weather_code	t_max_c
+15-03-1925	0.0	none	Mērījums apstiprināts	-3.7	70	-4.4
+04-04-1925 14:00	0.6	snow	Ap pusdienlaiku saule	4.7	75	7.9
+22-05-1925	0.1			7.7	80	11.9
+13-03-1925	0.0	NA	Skursteņi kūp	3.5	—	2.8
+05-04-1925	1.5	R	Ap pusdienlaiku saule	5.4	70	6.0
+18-05-1925	0.9	S	Mērīšanas kļūda?	9.6	71	11.5
+04-02-1925	0.2	S	—	NA		2.7
+03-04-1925		snow	Pūtis brāzmas	6.5	75	9.3
+1925-05-17	0.0	none	Rīts auksts	7.0	71	12.8
+07-04-1925	0.0	none		4.1	45	8.0
+28-04-1925	1.7	S	Skursteņi kūp	8.3	75	14.2
+07-02-1925	0.0		Pūtis brāzmas	-5.6	53	4.3
+15-02-1925	0.4	R	Mērījums apstiprināts	-11.2	81	3.0
+14-03-1925	0.8	M	Skursteņi kūp	0.3	NA	4.8
+08-04-1925	2.5	R	Novērojums vēlāk	6.1	81	
+23-04-1925 19:00	0.1	snow	Pūtis brāzmas	6.2	61	10.7
+14-04-1925	0.0	none	Mērīšanas kļūda?	5.6	45	4.8999999999999995
+25-04-1925 07:00		snow	Skursteņi kūp	5.8	71	10.8
+12-02-1925	NA	snow	NA	-1.9	45	-1.7
+26-03-1925	0.0		Pūtis brāzmas	NA	50	2.3
+1925-02-28	1.3	M	Pūtis brāzmas	-5.4	71	1.6
+07-05-1925	0.0	-999	Vēlāk sāka līt	10.1	61	14.0
+28-03-1925	0.4	NA	NA		75	2.5
+15-05-1925 07:00	-999	-999	Sniegs kūst	8.0	75	NA
+18-03-1925	1.8	R	Vēlāk sāka līt	-5.3	—	
+02-02-1925	0.2		Skursteņi kūp	-2.9	71	
+24-02-1925	0.0	—	Daļēji mākoņains	-4.8	55	-1.2
+23-05-1925 07:00	0.9	mixed	Daļēji mākoņains	7.8	82	17.6
+06-05-1925	0.2	M	NA		73	NA
+20-02-1925	0.0	—	Neliels vējš	-0.1	61	-999
+22-04-1925 19:00	1.8	R	Vēlāk sāka līt	8.6	51	10.9
+23-03-1925 20:00	3.1	mixed	Daļēji mākoņains	1.4	65	
+24.03.1925	—	R	Mērīšanas kļūda?	-4.3	51	7.9
+14-02-1925 20:00	1.5	rain	NA	NA	45	-0.2
+25-02-1925 14:00	3.4		Ap pusdienlaiku saule	-6.1	50	6.2
+03-22-1925	0.2	R	Ap pusdienlaiku saule	-6.3	70	7.4
+12-05-1925	0.0	NA	NA	13.6	90	21.3
+19-05-1925	0.0		Laikam migla	5.0	45	17.4
+08-03-1925	0.0	NA	Ap pusdienlaiku saule	-4.1	55	0.9
+03-20-1925	0.6	M	Sniegs kūst	-1.1	NA	1.5
+05-02-1925		—		-9.7	65	3.2
+20-05-1925	0.0		Mērīšanas kļūda?	14.3	71	17.1
+14-05-1925	1.4	snow	Vēlāk sāka līt	6.4	90	11.3
+25-03-1925	1.3	M	NA	-0.5	73	4.6
+01-04-1925 13:00	1.7	rain	—	1.2	50	12.2
+12-04-1925 13:00	0.0		Novērojums vēlāk	1.4	45	8.5
+23-02-1925	1.2	R	Laikam migla	-1.7	80	-0.3
+08-05-1925	2.1	S	Skursteņi kūp	3.6	71	15.3
