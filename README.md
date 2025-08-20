@@ -6,9 +6,9 @@ Data Analysis and Visualization continued professional development course at Rig
 
 ## Daily Course Links
 
-Day 1 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day1_big_picture_intro.ipynb)
+Day 1 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day1_big_picture_intro.ipynb?force_copy=true)
 
-Day 2 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day2_data_cleaning_preparation.ipynb)
+Day 2 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day2_data_cleaning_preparation.ipynb?force_copy=true)
 
 ## Course description
 
