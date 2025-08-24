@@ -11,8 +11,7 @@ Day 1 - Open in Google Colab: [![Open In Colab](https://colab.research.google.co
 Day 2 - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day2_data_cleaning_preparation.ipynb?force_copy=true)
 
 Day 3 - Open In GOogle Colab  [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day3_exploratory_data_analysis.ipynb
-)
+https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day3_exploratory_data_analysis.ipynb?force_copy=true)
 
 ## Course description
 
