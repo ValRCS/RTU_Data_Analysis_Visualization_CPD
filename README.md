@@ -16,6 +16,9 @@ https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_
 Day 4 - Open In Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day4_Irises_Data_Analysis_Workflow_Classification_Clustering.ipynb?force_copy=true)
 
+Day 5 - Open In Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ValRCS/RTU_Data_Analysis_Visualization_CPD/blob/main/notebooks/day5_end_to_end_machine_learning_project.ipynb?force_copy=true)
+
 
 ## Course description
 
